@@ -7,8 +7,8 @@ from enum import Enum
 
 class GPIO(Enum):
     D0 = 0
-    D1 = 1
-    D2 = 2
+    D1 = 2
+    D2 = 3
 
 class Edge(Enum):
     RISING = "rising"
