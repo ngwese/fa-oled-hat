@@ -12,5 +12,5 @@ enable i2c-0
 ```
 sudo armbian-config
 ```
-Select System > Hardware > i2c0, enable via <SPC>, save, and reboot.
+Select System > Hardware > i2c0, enable via \<SPC\>, save, and reboot.
 
